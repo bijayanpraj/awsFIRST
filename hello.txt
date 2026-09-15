@@ -1,11 +1,10 @@
 Hello world
 hei
 ha
-<<<<<<< HEAD
 hekadk
 accidental line 
 =======
 he
 accidental line 
 fro m the git hub 
->>>>>>> ee7210805900a30a279681cd1380a69ff1d577cb
+
